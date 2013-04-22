@@ -39,7 +39,7 @@ class MSSQ:
         return rs
         
 def main():
-    ms = MSSQ(host="10.10.224.66", user="testwrite1", passwd="test_123_*()", db="couponkpi")
+    ms = MSSQ(host="10.10.224.66", user="testwrite", passwd="test_123_*()", db="couponkpi")
     rs = ms.execQuery("select * from [out_order]")
     for c in rs:
         print c
