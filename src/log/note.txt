@@ -1,1 +1,2 @@
 http://wenku.baidu.com/view/682b5b81bceb19e8b9f6ba00.html
+http://www.crifan.com/python_output_multiple_script_logging_into_single_log_file/
